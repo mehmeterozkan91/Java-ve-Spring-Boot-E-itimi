@@ -1,4 +1,4 @@
-package operators.AndOrXor;
+package operators.andOrXor;
 
 public class BitwiseXOR {
     public static void main(String[] args) {
