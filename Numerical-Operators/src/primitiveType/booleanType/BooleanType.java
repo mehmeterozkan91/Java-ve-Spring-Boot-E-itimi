@@ -24,6 +24,9 @@ public class BooleanType {
         System.out.println(isEven(10));  // true
         System.out.println(isEven(7));   // false
 
+        int number = 5;
+        boolean status = number > 0; // number değişkeni 0'dan büyükse true, büyükse false dönecektir.
+        System.out.println(status);
 
     }
 }
