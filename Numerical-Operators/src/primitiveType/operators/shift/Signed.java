@@ -1,4 +1,4 @@
-package operators.shift;
+package primitiveType.operators.shift;
 
 public class Signed {
     public static void main(String[] args) {

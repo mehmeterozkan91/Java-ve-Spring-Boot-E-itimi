@@ -1,4 +1,4 @@
-package operators.multiplicative;
+package primitiveType.operators.multiplicative;
 
 public class Division {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package operators.andOrXor;
+package primitiveType.operators.andOrXor;
 
 public class BitwiseAND {
     public static void main(String[] args) {
